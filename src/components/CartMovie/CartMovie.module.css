@@ -1,0 +1,15 @@
+.cart {
+  padding: 20px 0;
+  display: flex;
+  gap: 20px;
+}
+
+.Img {
+  width: 350px;
+  object-fit: cover;
+  margin-top: 20px;
+}
+.genres {
+  display: flex;
+  gap: 15px;
+}
